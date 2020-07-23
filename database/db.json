@@ -14,11 +14,16 @@
           "price": 12999000
         },
         {
-          "image": "https://images-na.ssl-images-amazon.com/images/I/61C9GrXEp4L._AC_SY679_.jpg",
-          "name": "Google Pixel 4",
-          "qty": 1,
-          "total": 10060820,
-          "price": 10060820
+          "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note10-aura-glow.jpg",
+          "name": "Samsung Galaxy Note 10",
+          "qty": "4",
+          "total": 51996000
+        },
+        {
+          "image": "https://ibox.co.id/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-s-white.png",
+          "name": "iPhone X",
+          "qty": "3",
+          "total": 44997000
         }
       ]
     }
@@ -122,6 +127,84 @@
       "qtyTotal": 2,
       "total": 23059820,
       "id": 3
+    },
+    {
+      "transID": 1595500606087,
+      "date": "7/23/2020, 5:36:46 PM",
+      "products": [
+        {
+          "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note10-aura-glow.jpg",
+          "name": "Samsung Galaxy Note 10",
+          "qty": 3,
+          "total": 38997000,
+          "price": 12999000
+        },
+        {
+          "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note10-aura-glow.jpg",
+          "name": "Samsung Galaxy Note 10",
+          "qty": "4",
+          "total": 51996000
+        },
+        {
+          "image": "https://ibox.co.id/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-s-white.png",
+          "name": "iPhone X",
+          "qty": "3",
+          "total": 44997000
+        }
+      ],
+      "id": 4
+    },
+    {
+      "transID": 1595500646579,
+      "date": "7/23/2020, 5:37:26 PM",
+      "products": [
+        {
+          "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note10-aura-glow.jpg",
+          "name": "Samsung Galaxy Note 10",
+          "qty": 3,
+          "total": 38997000,
+          "price": 12999000
+        },
+        {
+          "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note10-aura-glow.jpg",
+          "name": "Samsung Galaxy Note 10",
+          "qty": "4",
+          "total": 51996000
+        },
+        {
+          "image": "https://ibox.co.id/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-s-white.png",
+          "name": "iPhone X",
+          "qty": "3",
+          "total": 44997000
+        }
+      ],
+      "id": 5
+    },
+    {
+      "transID": 1595501282932,
+      "date": "7/23/2020, 5:48:02 PM",
+      "products": [
+        {
+          "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note10-aura-glow.jpg",
+          "name": "Samsung Galaxy Note 10",
+          "qty": 3,
+          "total": 38997000,
+          "price": 12999000
+        },
+        {
+          "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note10-aura-glow.jpg",
+          "name": "Samsung Galaxy Note 10",
+          "qty": "4",
+          "total": 51996000
+        },
+        {
+          "image": "https://ibox.co.id/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-s-white.png",
+          "name": "iPhone X",
+          "qty": "3",
+          "total": 44997000
+        }
+      ],
+      "id": 6
     }
   ]
 }

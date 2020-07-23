@@ -5,7 +5,7 @@ import './App.css';
 import Navbarcomponent from './components/navbar'
 import Productspage from './pages/products'
 import Cartpage from './pages/cart'
-import Historiespage from './pages/histories'
+import Historypage from './pages/history'
 
 class App extends React.Component {
   constructor(props) {
@@ -19,7 +19,7 @@ class App extends React.Component {
               <Route path='/' component={Homepage} exact />
               <Route path='/products' component={Productspage} exact />
               <Route path='/cart' component={Cartpage} exact />
-              <Route path='/histories' component={Historiespage} exact />
+              <Route path='/history' component={Historypage} exact />
           </div>
       )
   }
