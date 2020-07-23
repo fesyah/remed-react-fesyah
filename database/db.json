@@ -1,0 +1,127 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "role": "admin",
+      "cart": [
+        {
+          "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note10-aura-glow.jpg",
+          "name": "Samsung Galaxy Note 10",
+          "qty": 3,
+          "total": 38997000,
+          "price": 12999000
+        },
+        {
+          "image": "https://images-na.ssl-images-amazon.com/images/I/61C9GrXEp4L._AC_SY679_.jpg",
+          "name": "Google Pixel 4",
+          "qty": 1,
+          "total": 10060820,
+          "price": 10060820
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung Galaxy Note 10",
+      "price": 12999000,
+      "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note10-aura-glow.jpg",
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "name": "iPhone X",
+      "price": 14999000,
+      "image": "https://ibox.co.id/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-s-white.png",
+      "stock": 10
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel 4",
+      "price": 10060820,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61C9GrXEp4L._AC_SY679_.jpg",
+      "stock": 4
+    },
+    {
+      "id": 4,
+      "name": "iPhone 11 Pro",
+      "price": 16999000,
+      "image": "https://ibox.co.id/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-11-pro-midnight-green.png",
+      "stock": 11
+    }
+  ],
+  "histories": [
+    {
+      "transactionId": 1595149645098,
+      "date": "7/19/2020, 4:07:25 PM",
+      "products": [
+        {
+          "image": "https://images-na.ssl-images-amazon.com/images/I/61C9GrXEp4L._AC_SY679_.jpg",
+          "name": "Google Pixel 4",
+          "qty": 4,
+          "total": 40243280,
+          "price": 10060820
+        },
+        {
+          "image": "https://ibox.co.id/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-s-white.png",
+          "name": "iPhone X",
+          "qty": 3,
+          "total": 44997000,
+          "price": 14999000
+        }
+      ],
+      "qtyTotal": 7,
+      "total": 85240280,
+      "id": 1
+    },
+    {
+      "transactionId": 1595149768464,
+      "date": "7/19/2020, 4:09:28 PM",
+      "products": [
+        {
+          "image": "https://ibox.co.id/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-s-white.png",
+          "name": "iPhone X",
+          "qty": 5,
+          "total": 74995000,
+          "price": 14999000
+        },
+        {
+          "image": "https://ibox.co.id/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-11-pro-midnight-green.png",
+          "name": "iPhone 11 Pro",
+          "qty": 2,
+          "total": 33998000,
+          "price": 16999000
+        }
+      ],
+      "qtyTotal": 7,
+      "total": 108993000,
+      "id": 2
+    },
+    {
+      "transactionId": 1595149783367,
+      "date": "7/19/2020, 4:09:43 PM",
+      "products": [
+        {
+          "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note10-aura-glow.jpg",
+          "name": "Samsung Galaxy Note 10",
+          "qty": 1,
+          "total": 12999000,
+          "price": 12999000
+        },
+        {
+          "image": "https://images-na.ssl-images-amazon.com/images/I/61C9GrXEp4L._AC_SY679_.jpg",
+          "name": "Google Pixel 4",
+          "qty": 1,
+          "total": 10060820,
+          "price": 10060820
+        }
+      ],
+      "qtyTotal": 2,
+      "total": 23059820,
+      "id": 3
+    }
+  ]
+}
